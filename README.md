@@ -57,7 +57,7 @@ Clone this repository to your local machine.
 Running the Notebook
 Open the notebook.ipynb in your preferred environment (e.g., Jupyter Notebook).
 Run the cells in sequence to clean the data, perform exploratory analysis, and visualize the results.
-You can view the notebook directly in this repository by clicking [Jupyter Notebook](assignment_5_1_starter%20(1)/prompt.ipynb).
+You can view the notebook directly in this repository by clicking [Jupyter Notebook](Car-Analysis.ipynb).
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
