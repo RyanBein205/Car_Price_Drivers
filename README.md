@@ -32,9 +32,12 @@ Car Price vs Mileage: Cars with lower mileage typically have higher prices. We v
 Manufacturer Impact: Luxury car brands (e.g., BMW, Mercedes-Benz) command higher prices than mass-market brands (e.g., Ford, Toyota).
 Fuel Type Impact: Electric and diesel vehicles are generally more expensive compared to gasoline and hybrid cars.
 Example Visualizations:
+
 Car Price Distribution by Manufacturer
+![Screenshot 2024-10-01 001619](https://github.com/user-attachments/assets/ff5df578-36b9-4fb7-9673-5b5a146f106b)
 
 Car Price vs Year and Mileage
+![Screenshot 2024-10-01 001601](https://github.com/user-attachments/assets/1e079241-0abc-48de-bd55-a4215e21169d)
 
 
 Insights and Conclusions
